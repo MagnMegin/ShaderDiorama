@@ -141,7 +141,7 @@ Material:
     - _test: 7.11
     m_Colors:
     - _AvoidPos: {r: 1.63, g: -1.689, b: -0.96, a: 0}
-    - _BaseColor: {r: 0.13885912, g: 0.3710691, b: 0.1707254, a: 1}
+    - _BaseColor: {r: 0.25402305, g: 0.4490565, b: 0.22283368, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DryColor: {r: 0.81761, g: 0.77738684, b: 0.41908935, a: 1}
     - _DryNoiseOffset: {r: 21.64, g: 1.91, b: 0, a: 0}
