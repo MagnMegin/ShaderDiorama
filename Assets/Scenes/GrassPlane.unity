@@ -417,6 +417,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Terrarium
       objectReference: {fileID: 0}
+    - target: {fileID: 1784215364436741550, guid: 21d0afc051b6ef34d8dbdd7fcea67e68, type: 3}
+      propertyPath: material
+      value: 
+      objectReference: {fileID: 2100000, guid: 9466477c2991f7c449eee3768c85a933, type: 2}
+    - target: {fileID: 1784215364436741550, guid: 21d0afc051b6ef34d8dbdd7fcea67e68, type: 3}
+      propertyPath: surfaceMatrixPropertyID
+      value: 1338
+      objectReference: {fileID: 0}
     - target: {fileID: 2522620126997459426, guid: 21d0afc051b6ef34d8dbdd7fcea67e68, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -465,6 +473,10 @@ PrefabInstance:
       propertyPath: mesh
       value: 
       objectReference: {fileID: 810048143}
+    - target: {fileID: 8914566398523676045, guid: 21d0afc051b6ef34d8dbdd7fcea67e68, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8f4217f8a3f2f734383944c687fc67f7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
